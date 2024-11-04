@@ -19,3 +19,13 @@ In this project, histograms of images are computed and compared with the histogr
 
 ### Image Concatenation
 In this project, two images (a dog and a cat) are loaded and displayed. The images are resized to a uniform dimension and then concatenated both vertically and horizontally. The results are displayed in separate windows.
+
+## Features
+**Libraries Used:**
+- OpenCV
+- Matplotlib
+- Pillow
+- NumPy
+- SciPy
+
+- 
