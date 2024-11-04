@@ -16,3 +16,6 @@ This project employs various edge detection filters (Sobel, Laplace, Gaussian) t
 
 ### Image Histograms
 In this project, histograms of images are computed and compared with the histograms of images after applying different filters.
+
+### Image Concatenation
+In this project, two images (a dog and a cat) are loaded and displayed. The images are resized to a uniform dimension and then concatenated both vertically and horizontally. The results are displayed in separate windows.
