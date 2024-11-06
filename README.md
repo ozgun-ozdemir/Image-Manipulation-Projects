@@ -22,9 +22,9 @@ In this project, two images (a dog and a cat) are loaded and displayed. The imag
 
 ## Requirements
 **Libraries Used:**
-- OpenCV
-- Matplotlib
-- Pillow
-- NumPy
-- SciPy
+- `OpenCV`
+- `Matplotlib`
+- `Pillow`
+- `NumPy`
+- `SciPy`
 
