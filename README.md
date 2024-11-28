@@ -27,4 +27,3 @@ In this project, two images (a dog and a cat) are loaded and displayed. The imag
 - `Pillow`
 - `NumPy`
 - `SciPy`
-
